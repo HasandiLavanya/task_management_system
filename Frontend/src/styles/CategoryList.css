@@ -1,0 +1,23 @@
+.category-card {
+  background: #f9fafb;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.category-card button {
+  margin-left: 8px;
+}
+
+.category-edit {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.category-delete {
+  background-color: #ef4444;
+  color: white;
+}

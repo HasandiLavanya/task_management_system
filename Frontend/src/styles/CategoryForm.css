@@ -1,0 +1,12 @@
+.category-form {
+  margin-bottom: 15px;
+}
+
+.category-form button {
+  background-color: #6366f1;
+  color: white;
+}
+
+.category-form button:hover {
+  background-color: #4f46e5;
+}
